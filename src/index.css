@@ -4,4 +4,8 @@ body {
   margin: auto;
   max-width: 38rem;
   padding: 2rem;
+  /* Load a background image, Streched but keep aspect ratio */
+  background: url('assets/images/Neutral.jpg') no-repeat center center fixed;
+  /* Set the background color to 37, 98, 90 */
+  background-color: #25625a;
 }
